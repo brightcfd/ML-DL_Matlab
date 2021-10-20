@@ -2,17 +2,23 @@
 # Author: Frank Cui
 -----------------------------------------
 -----------------------------------------
-# Logistic Regression
+Linear Regression
+
+
+Linear Regression with Mutiple Parameters
 
 
 
-# K-mean cluster
+Logistic Regression
 
 
 
-# Support vector machine
+K-mean cluster
 
 
 
+Support vector machine
 
-# K-nearest neighbors 
+
+
+K-nearest neighbors 
